@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MagnifierConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Location>
+    <X>589</X>
+    <Y>330</Y>
+  </Location>
+  <isWidthEqualsHeight>true</isWidthEqualsHeight>
+  <isShowCircle>false</isShowCircle>
+  <ShowInTaskbar>false</ShowInTaskbar>
+  <MagnifierWidth>431</MagnifierWidth>
+  <MagnifierHeight>431</MagnifierHeight>
+  <ZoomFactor>3</ZoomFactor>
+  <SpeedFactor>0.5</SpeedFactor>
+</MagnifierConfig>
